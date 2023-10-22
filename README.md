@@ -1,2 +1,4 @@
 # getcomposer
-Get and test composer with php-cli Library
+Get composer
+and test splitbrain/php-cli 
+
