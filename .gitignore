@@ -1,0 +1,13 @@
+composer.phar
+composer.lock
+composer
+vendor
+*.txt
+*.txt.csv
+*.csv
+*.afaire
+*.beingread
+*.log
+*~
+#*#
+*.swp

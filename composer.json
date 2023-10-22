@@ -1,0 +1,6 @@
+{
+    "name": "enola/getcomposer.bash",
+    "require": {
+        "splitbrain/php-cli": "dev-master"
+    }
+}
